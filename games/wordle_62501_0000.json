@@ -1,0 +1,36 @@
+{
+   "check_word" : "#####",
+   "game_id" : "62501_0000",
+   "guesses" : {
+      "data" : [
+         {
+            "guess" : "crane",
+            "result" : "__o_o",
+            "time" : "0000"
+         },
+         {
+            "guess" : "light",
+            "result" : "o___o",
+            "time" : "0000"
+         },
+         {
+            "guess" : "bleat",
+            "result" : "_o##o",
+            "time" : "0000"
+         },
+         {
+            "guess" : "pleat",
+            "result" : "_o##o",
+            "time" : "0000"
+         },
+         {
+            "guess" : "steal",
+            "result" : "#####",
+            "time" : "0000"
+         }
+      ]
+   },
+   "remaining_score" : 96,
+   "score_distributed" : false,
+   "word" : "steal"
+}

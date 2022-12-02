@@ -1,0 +1,922 @@
+[0000] {
+   "arg action" : "obtain",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "00000000",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "7791_0000",
+      "remaining_score" : 100,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "7791_0000",
+   "arg my_guess" : "crane",
+   "result" : {
+      "check_word" : "____o",
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 99,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "7791_0000",
+   "arg my_guess" : "light",
+   "result" : {
+      "check_word" : "oo___",
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "oo___",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "7791_0000",
+   "arg my_guess" : "belie",
+   "result" : {
+      "check_word" : "_ooo_",
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "oo___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "belie",
+               "result" : "_ooo_",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 97,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "7791_0000",
+   "arg my_guess" : "devil",
+   "result" : {
+      "check_word" : "_o_o#",
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "oo___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "belie",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "devil",
+               "result" : "_o_o#",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "7791_0000",
+   "arg my_guess" : "impel",
+   "result" : {
+      "check_word" : "o_o##",
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "oo___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "belie",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "devil",
+               "result" : "_o_o#",
+               "time" : "0000"
+            },
+            {
+               "guess" : "impel",
+               "result" : "o_o##",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 95,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "7791_0000",
+   "arg my_guess" : "pixel",
+   "result" : {
+      "check_word" : "oo_##",
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "oo___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "belie",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "devil",
+               "result" : "_o_o#",
+               "time" : "0000"
+            },
+            {
+               "guess" : "impel",
+               "result" : "o_o##",
+               "time" : "0000"
+            },
+            {
+               "guess" : "pixel",
+               "result" : "oo_##",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "submit",
+   "arg game_id" : "7791_0000",
+   "arg team_name" : "BSSK",
+   "result" : {
+      "check_word" : "oo_##",
+      "error_code" : -3,
+      "game_id" : "7791_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "____o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "oo___",
+               "time" : "0000"
+            },
+            {
+               "guess" : "belie",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "devil",
+               "result" : "_o_o#",
+               "time" : "0000"
+            },
+            {
+               "guess" : "impel",
+               "result" : "o_o##",
+               "time" : "0000"
+            },
+            {
+               "guess" : "pixel",
+               "result" : "oo_##",
+               "time" : "0000"
+            }
+         ]
+      },
+      "reason" : "check_word is ill-formated or incomplete",
+      "remaining_score" : 94,
+      "score_distributed" : false,
+      "status" : "failed",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "obtain",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "00000000",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "89383_0000",
+      "remaining_score" : 100,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "89383_0000",
+   "arg my_guess" : "crane",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 99,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "89383_0000",
+   "arg my_guess" : "light",
+   "result" : {
+      "check_word" : "_o_o_",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o_o_",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "89383_0000",
+   "arg my_guess" : "fishy",
+   "result" : {
+      "check_word" : "_ooo_",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "fishy",
+               "result" : "_ooo_",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 97,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "89383_0000",
+   "arg my_guess" : "sushi",
+   "result" : {
+      "check_word" : "o__oo",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "fishy",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "sushi",
+               "result" : "o__oo",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "89383_0000",
+   "arg my_guess" : "swish",
+   "result" : {
+      "check_word" : "_o##o",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "fishy",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "sushi",
+               "result" : "o__oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "swish",
+               "result" : "_o##o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 95,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "89383_0000",
+   "arg my_guess" : "whisk",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "fishy",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "sushi",
+               "result" : "o__oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "swish",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "whisk",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 95,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "submit",
+   "arg game_id" : "89383_0000",
+   "arg team_name" : "BSSK",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "89383_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "_____",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o_o_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "fishy",
+               "result" : "_ooo_",
+               "time" : "0000"
+            },
+            {
+               "guess" : "sushi",
+               "result" : "o__oo",
+               "time" : "0000"
+            },
+            {
+               "guess" : "swish",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "whisk",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 95,
+      "score_distributed" : false,
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "obtain",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "00000000",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "62501_0000",
+      "remaining_score" : 100,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "62501_0000",
+   "arg my_guess" : "crane",
+   "result" : {
+      "check_word" : "__o_o",
+      "game_id" : "62501_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "__o_o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 99,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "62501_0000",
+   "arg my_guess" : "light",
+   "result" : {
+      "check_word" : "o___o",
+      "game_id" : "62501_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "__o_o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "o___o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "62501_0000",
+   "arg my_guess" : "bleat",
+   "result" : {
+      "check_word" : "_o##o",
+      "game_id" : "62501_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "__o_o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "o___o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "bleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 97,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "62501_0000",
+   "arg my_guess" : "pleat",
+   "result" : {
+      "check_word" : "_o##o",
+      "game_id" : "62501_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "__o_o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "o___o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "bleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "pleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "62501_0000",
+   "arg my_guess" : "steal",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "62501_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "__o_o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "o___o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "bleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "pleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "steal",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "submit",
+   "arg game_id" : "62501_0000",
+   "arg team_name" : "BSSK",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "62501_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "__o_o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "o___o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "bleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "pleat",
+               "result" : "_o##o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "steal",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 96,
+      "score_distributed" : false,
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "obtain",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "00000000",
+   "result" : {
+      "check_word" : "_____",
+      "game_id" : "68157_0000",
+      "remaining_score" : 100,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "68157_0000",
+   "arg my_guess" : "crane",
+   "result" : {
+      "check_word" : "___##",
+      "game_id" : "68157_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "___##",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 99,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "68157_0000",
+   "arg my_guess" : "light",
+   "result" : {
+      "check_word" : "_o__o",
+      "game_id" : "68157_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "___##",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o__o",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "guess",
+   "arg class_id" : "Wordle",
+   "arg game_id" : "68157_0000",
+   "arg my_guess" : "twine",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "68157_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "___##",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o__o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "twine",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "status" : "successful",
+      "word" : "?????"
+   }
+}
+
+[0000] {
+   "arg action" : "submit",
+   "arg game_id" : "68157_0000",
+   "arg team_name" : "BSSK",
+   "result" : {
+      "check_word" : "#####",
+      "game_id" : "68157_0000",
+      "guesses" : {
+         "data" : [
+            {
+               "guess" : "crane",
+               "result" : "___##",
+               "time" : "0000"
+            },
+            {
+               "guess" : "light",
+               "result" : "_o__o",
+               "time" : "0000"
+            },
+            {
+               "guess" : "twine",
+               "result" : "#####",
+               "time" : "0000"
+            }
+         ]
+      },
+      "remaining_score" : 98,
+      "score_distributed" : false,
+      "word" : "?????"
+   }
+}
+

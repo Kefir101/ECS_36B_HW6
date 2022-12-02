@@ -1,0 +1,26 @@
+{
+   "check_word" : "#####",
+   "game_id" : "68157_0000",
+   "guesses" : {
+      "data" : [
+         {
+            "guess" : "crane",
+            "result" : "___##",
+            "time" : "0000"
+         },
+         {
+            "guess" : "light",
+            "result" : "_o__o",
+            "time" : "0000"
+         },
+         {
+            "guess" : "twine",
+            "result" : "#####",
+            "time" : "0000"
+         }
+      ]
+   },
+   "remaining_score" : 98,
+   "score_distributed" : false,
+   "word" : "twine"
+}
